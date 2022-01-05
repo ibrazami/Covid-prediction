@@ -1,6 +1,6 @@
 # Covid-prediction
 
-Disini, saya ingin mengetahui bagaimana perkembangan kasus baru pada tanggal 1 - 14 Des 2021 di Indonesia. Jika diasumsikan tidak adanya outbreak mendadak dan masuknya varian baru apakah kasusnya bisa menurun dan sejauh apa menurunnya. Data yang diolah adalah data Covid-19 tanggal 1 Juni 2021 - 30 November 2021 di Indonesia yang diambil dari situs kawalcovid19.
+Disini, saya ingin mengetahui bagaimana perkembangan kasus baru pada tanggal 1 - 14 Des 2021 di Indonesia. Jika diasumsikan tidak adanya outbreak mendadak dan masuknya varian baru apakah. Data yang diolah adalah data Covid-19 tanggal 1 Juni 2021 - 30 November 2021 di Indonesia yang diambil dari situs kawalcovid19.
 
 Prediksi akan dilakukan menggunakan polynomial regression dengan variabel tanggal dan jumlah kasus harian.
 
